@@ -13,7 +13,7 @@ AR Based Education App
   
   ![Group 1 (1)](https://github.com/AbhinavC10/EduAR/assets/135442606/8922ed5c-f04f-445b-88f0-23a92e713162)
 
-  ![skull](https://github.com/AbhinavC10/EduAR/assets/135442606/5f5d8703-2327-4b1d-b658-2d0c5fcddbfb)
+  ![skull](https://github.com/AbhinavC10/EduAR/assets/135442606/9aea1029-9f47-4ddd-8b93-e9577d518193)
 
 ## Prerequisites
 - Unity 2020.3.0f1 or later
