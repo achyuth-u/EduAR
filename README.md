@@ -10,6 +10,8 @@ AR Based Education App
 - **Quiz Integration**: Test your knowledge with integrated quizzes.
 - **Read Aloud**: Triple tap on the AR 3D model to read aloud feature.
 - **User-Friendly Interface**: Easy navigation for a seamless learning experience.
+  
+  ![Group 1 (1)](https://github.com/AbhinavC10/EduAR/assets/135442606/8922ed5c-f04f-445b-88f0-23a92e713162)
 
 ## Prerequisites
 - Unity 2020.3.0f1 or later
