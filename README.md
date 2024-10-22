@@ -26,7 +26,9 @@ To install the AR Education App on your device, build the project using Unity's 
 Launch the app and point your device's camera at the designated images to begin an interactive lesson.
 
 ## Contact
-[https://github.com/AbhianvC10/EduAR](https://github.com/AbhinavC10)
+Abhinav PR
+Achyuth Unni
+Gokul S Ganesh
 
 ## Acknowledgements
 - Unity
